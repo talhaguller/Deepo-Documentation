@@ -61,4 +61,4 @@
 
 ## Class Diyagramı
 
-![alt text](https://lh5.googleusercontent.com/EKTDSvmPnMwIjpcw03T-UnMUOgypDru8wTEXO8VWCzrTTaacENMAK2KoRhNbz_eDdH84vov0SFC_aoUeZ-JcjQwpAMIs93QGQnol8fBiGQVZuZaLgR1UMbMA0vEx6FGFaGGi2_VhhHpgus4SruLKV3jaQ_f9FnBwYKVlPC7bjNQZI5A1yAHtvPJ0DsuSgFfnmhwn)
+![alt text](https://lh3.googleusercontent.com/gj7E5nksdfYv6RDhxu82HOcXFvqQFW8O8ooOv77FE7cIIoB2IoMRMVChmbpEu5e5p7glVk2dnQ3a4WGmDnkqA7X1SS7Yj8J9wZGh805j5mfMK2Y0_ryS51qtZP5B5Tc4-6On-6QsTDH-KCEKmaZAL8h9jJr4rBkcru551D0Mhcf4baD4gkcRpKEluIL4nsFBMMOA)
