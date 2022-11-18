@@ -21,7 +21,7 @@
 ## Kullanılacak Teknolojiler
 
 - Java
-- Microsoft SQL Server
+- Postgre Sql
 - React
 
 ## Misyonumuz
