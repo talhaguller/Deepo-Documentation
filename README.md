@@ -42,8 +42,7 @@
 
 ## E-R Diyagramı
 
-![alt text](https://lh6.googleusercontent.com/RMALykyuFOOjX4dfFhQq2cxHdDLGxhLzAraj5JUiAN2LZhfOhUerQJlyOnKSbAgUQfEKuRVqBe6MU-Bqr6F4KepNF9-szTPMpCiRVCnlUm-rI3stVTi63-H8mx9-770Rk0IfjpJEFf-cRvHZfoElPsdfYdl7Q2AZsRPSouifFFRCuyGlKVmcYf3F34Kmuf2GJAAB)
-
+![alt text (https://lh3.googleusercontent.com/gj7E5nksdfYv6RDhxu82HOcXFvqQFW8O8ooOv77FE7cIIoB2IoMRMVChmbpEu5e5p7glVk2dnQ3a4WGmDnkqA7X1SS7Yj8J9wZGh805j5mfMK2Y0_ryS51qtZP5B5Tc4-6On-6QsTDH-KCEKmaZAL8h9jJr4rBkcru551D0Mhcf4baD4gkcRpKEluIL4nsFBMMOA)
 
 ## Activity Diyagramı
 
@@ -61,4 +60,5 @@
 
 ## Class Diyagramı
 
-![alt text](https://lh3.googleusercontent.com/gj7E5nksdfYv6RDhxu82HOcXFvqQFW8O8ooOv77FE7cIIoB2IoMRMVChmbpEu5e5p7glVk2dnQ3a4WGmDnkqA7X1SS7Yj8J9wZGh805j5mfMK2Y0_ryS51qtZP5B5Tc4-6On-6QsTDH-KCEKmaZAL8h9jJr4rBkcru551D0Mhcf4baD4gkcRpKEluIL4nsFBMMOA)
+![alt text]
+(https://lh4.googleusercontent.com/g3f5pM72uRmOhsjGc7Jh21wbEuBI93ebrQJgYr2SxWJZBWTKmhCgP9iqPmcdTpYRxW5ENwf7IcEj8oZdryIHPmT0kIZBR45AEQ2R7WcuKRHQBrt2nyvpTQ0pqug0rFIApvnbZ3hK2QwJwGQJGWTbYHHBknuv0MBuZfq12vIxLER8J2ZUh2DxLTgCqRthvlLxVv_I)
