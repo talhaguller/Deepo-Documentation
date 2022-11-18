@@ -16,7 +16,8 @@
 
 ## Ürün Adı
 
-- deepo
+- Deepo
+![alt text](https://lh3.googleusercontent.com/Ndwh85wYjReIF4nAouYYdPMgjs9bPmclUgJthxy0cPOQ23-G7fYclIXkY54N6s2YGoQbTvZNu7koJhEvnXctwF40Tf78pwtrZYctgKMtj7Ux8fthhi6evsDMkmKxTNSugv-19ZLA9vLgXG0XtXxVJJXIT8r5WkVLn0g0fOBGearnWLt6naDKtd2qmJVBzIe22T9W)
 
 ## Kullanılacak Teknolojiler
 
@@ -60,5 +61,4 @@
 
 ## Class Diyagramı
 
-![alt text]
-(https://lh4.googleusercontent.com/g3f5pM72uRmOhsjGc7Jh21wbEuBI93ebrQJgYr2SxWJZBWTKmhCgP9iqPmcdTpYRxW5ENwf7IcEj8oZdryIHPmT0kIZBR45AEQ2R7WcuKRHQBrt2nyvpTQ0pqug0rFIApvnbZ3hK2QwJwGQJGWTbYHHBknuv0MBuZfq12vIxLER8J2ZUh2DxLTgCqRthvlLxVv_I)
+![alt text](https://lh4.googleusercontent.com/g3f5pM72uRmOhsjGc7Jh21wbEuBI93ebrQJgYr2SxWJZBWTKmhCgP9iqPmcdTpYRxW5ENwf7IcEj8oZdryIHPmT0kIZBR45AEQ2R7WcuKRHQBrt2nyvpTQ0pqug0rFIApvnbZ3hK2QwJwGQJGWTbYHHBknuv0MBuZfq12vIxLER8J2ZUh2DxLTgCqRthvlLxVv_I)
