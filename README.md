@@ -7,8 +7,6 @@
 - Burak Gül -> Full Stack Developer
 - Kaan Koç -> Full Stack Developer
 - Burak Uzunkaya -> Product Owner(Frontend)
-- Furkan Demirtaş -> Analist(Fronted)
-
 
 ## Ürün
 
